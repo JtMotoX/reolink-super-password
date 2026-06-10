@@ -1,0 +1,10 @@
+bin/
+obj/
+
+# Local IDE/editor files
+.vscode/
+.idea/
+*.swp
+
+# OS metadata
+.DS_Store
